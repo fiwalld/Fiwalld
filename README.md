@@ -12,6 +12,8 @@ The Fiwalld is a full-featured firewall on Android, keeps you away from maliciou
 
 ## Usage Guide Video:
 
+[https://youtu.be/uV7WYy10XEQ]
+
 <p float="left">
         <img alt="Logo" src="https://github.com/EasyLazyBean/Fiwalld/blob/main/11.png" width="200"/>
         <img alt="Logo" src="https://github.com/EasyLazyBean/Fiwalld/blob/main/12.png" width="200"/>
