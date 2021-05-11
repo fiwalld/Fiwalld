@@ -1,5 +1,5 @@
 # Fiwalld
-The Fiwalld is a full-featured firewall on Android, keeps you away from malicious apps.
+The Fiwalld is a free full-featured firewall on Android, keeps you away from malicious apps.
 
 # Key features:
 
