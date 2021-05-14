@@ -9,6 +9,10 @@ The Fiwalld is a free full-featured firewall on Android, keeps you away from mal
 4. Add or batch provision customed firewall rules for advanced users.
 5. Multi-dimensional statistical analysis allows you to quickly identify suspicious applications.
 6. Predefined non logging DoH/DNSCrypt Servers provide further protection of your privacy.
+7. Support add custom DoH/DNScrypt or UDP DNS servers.
+8. Support batch provision whitelist rules.
+
+If you receive a system prompt that Fiwalld is draining battery, don't panic. Fiwalld does the connecting work, while other applications save this part of the battery, so the overall battery consumption remains the same. Acutually,many unnecessary connections are blocked, Fiwalld helps to save battery.
 
 ## Usage Guide Video:
 
