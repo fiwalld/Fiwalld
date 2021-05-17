@@ -5,3 +5,4 @@ msga.cupid.iqiyi.com
 ad.us.sinaimg.cn
 adbehavior.ximalaya.com
 adsehera.ximalaya.com
+xdcs-collector.ximalaya.com
