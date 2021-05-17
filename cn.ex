@@ -6,3 +6,4 @@ ad.us.sinaimg.cn
 adbehavior.ximalaya.com
 adsehera.ximalaya.com
 xdcs-collector.ximalaya.com
+dm.pstatp.com
