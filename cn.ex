@@ -7,3 +7,6 @@ adbehavior.ximalaya.com
 adsehera.ximalaya.com
 xdcs-collector.ximalaya.com
 dm.pstatp.com
+dm.bytedance.com
+sf3-fe-tos.pglstatp-toutiao.com
+dm.toutiao.com
