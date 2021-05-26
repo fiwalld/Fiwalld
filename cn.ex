@@ -5,6 +5,7 @@ msga.cupid.iqiyi.com
 ad.us.sinaimg.cn
 adbehavior.ximalaya.com
 adsehera.ximalaya.com
+ad.ximalaya.com
 xdcs-collector.ximalaya.com
 dm.pstatp.com
 dm.bytedance.com
