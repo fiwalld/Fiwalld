@@ -1,0 +1,123 @@
+Fiwalld
+Aplicaciones
+Lista blanca
+Detalle
+Servidores
+Reglas de bloqueo
+nombre de la aplicación o nombre del paquete
+nombre del lugar
+nombre de dominio o aplicación
+nombre de la aplicación
+aplicación o nombre de dominio
+regla, aplicación, dominio o IP
+Vigilancia
+Reglas
+Estadísticas
+Ajustes
+Detener
+Agregar regla de bloqueo
+Por lotes
+Ubicaciones
+Mensajes
+Sincronizar
+Nombre de la regla
+Tipo de servidor de calcetines
+Dominio (s) / IP (s)
+Puerto (s)
+Habilitar autenticación
+Haga clic para seleccionar la (s) aplicación (es)
+Aplicaciones seleccionadas:
+Agregar servidor DNS
+Nombre del servidor
+Sello del servidor
+IP del servidor: PUERTO
+Tipo de protocolo
+Tipo de datos
+Editar regla de bloqueo
+Seleccionar aplicaciones
+Nombre de la regla
+BlockRule
+DomainIP
+Tipo de datos, todos
+Todas
+Wifi
+Móvil
+¡La información del servidor DNS personalizado está incompleta!
+DNSType
+Reglas de bloqueo de anuncios totales:
+Reglas de la lista blanca:
+¡Ya en la lista blanca!
+Lista blanca
+Las reglas de la lista blanca se copian en el portapapeles.
+Borrar lista blanca
+¿Está seguro de que desea borrar la lista blanca?
+Continuar
+Cancelar
+OK
+Bloquear aplicación: bloquea todas las conexiones de la aplicación [xxx],
+Bloquear dominio: bloquea todas las conexiones al dominio [xxx]
+Bloquear el dominio de la aplicación: bloquear las conexiones de la aplicación [xxx] al dominio [xxx]
+Bloquear [IP: PUERTO]: bloquea todas las conexiones a [xxx]
+Bloquear [IP: PORT] de la aplicación: bloquear las conexiones de la aplicación [xxx] a [xxx]
+Configuración de bloque
+Tiempo restante:
+TimeLeft: permanentemente
+Eliminar la regla de la lista blanca
+¿Está seguro de que desea eliminar la aplicación [xxx] de la lista blanca?
+¿Está seguro de que desea eliminar el dominio [xxx] de la lista blanca?
+¡La nueva versión 1.3.6 está disponible, haga clic para descargar!
+Versión 1.3.6
+Creado por L. Bean
+Correo electrónico: easylazybean@gmail.com
+Los cambios se aplicarán la próxima vez que vuelva a conectarse
+Configuración de inicio automático
+Lo sentimos, Fiwalld no pudo abrir automáticamente la configuración de inicio automático para usted en este teléfono, configúrelo en la configuración del sistema manualmente.
+Modo de lista negra
+Solo las aplicaciones seleccionadas están protegidas por Fiwalld: [Predeterminado: todas las aplicaciones están protegidas por Fiwalld]
+Fiwalld solo protege las aplicaciones seleccionadas: [xxx]
+Modo de lista blanca
+Solo las aplicaciones seleccionadas no están protegidas por Fiwalld: [Predeterminado: todas las aplicaciones están protegidas por Fiwalld]
+Solo las aplicaciones seleccionadas no están protegidas por Fiwalld: [xxx]
+Déjame recomendarte esta aplicación Fiwalld
+elige uno
+Consejos:
+1. NO_DOMAIN_NAME_FOUND significa que el sistema / aplicación ya ha almacenado en caché el registro DNS o la aplicación utiliza la dirección IP para realizar la conexión directamente.
+2. Para Chrome, desactive su DNS interno.
+3. Para algunas marcas de teléfonos, otorgue permiso de ejecución en segundo plano a Fiwalld para asegurarse de que el sistema no lo detendrá.
+4. La pantalla de supervisión muestra las últimas 300 actividades de la red.
+5. Si recibe un mensaje del sistema de que Fiwalld está agotando la batería, no se asuste. Fiwalld hace el trabajo de conexión, mientras que otras aplicaciones ahorran esta parte de la batería, por lo que el consumo total de batería sigue siendo el mismo.
+Información
+Califícame
+Registros de monitoreo
+¡Todos los registros se copian al portapapeles!
+Ha fallado
+Proteger
+Desprotegido
+A partir de...
+Advertencia: Fiwalld está detenido
+Haga clic para seleccionar el servidor
+Establecer inicio automático para protección continua
+Consejos: los cambios de configuración se aplicarán la próxima vez que vuelva a conectar Fiwalld
+Ubicaciones de bloques
+Bloquear anuncios
+Reglas de bloque personalizadas
+Conexiones
+Uso de datos
+Los 10 bloques principales por reglas
+10 bloques principales por ubicación
+Las 10 conexiones principales por ubicación
+Los 10 bloques principales por aplicaciones
+Las 10 conexiones principales por aplicaciones
+Los 10 principales usos de datos por aplicaciones
+Contar
+Agregar reglas de lista blanca
+¿Está seguro de que desea agregar todos estos dominios / aplicaciones a la lista blanca?
+¡No se pudieron agregar algunas reglas de la lista blanca!
+¡Se agregan todas las reglas de la lista blanca!
+Agregar dominio [xxx] a la lista blanca
+Agregar la aplicación [xxx] a la lista blanca durante 5 minutos
+Agregar la aplicación [xxx] a la lista blanca durante 30 minutos
+Agregar la aplicación [xxx] a la lista blanca de forma permanente
+Inhabilitar la regla [xxx]
+Bloqueado por la regla [xxx]
+Nombre de la regla de bloqueo: [xxx]
