@@ -3,7 +3,7 @@ The Fiwalld is a free full-featured firewall on Android, keeps you away from mal
 
 # Key features:
 
-1. Real-time monitor which apps are accessing which servers.
+1. Real-time monitor which apps are accessing which servers or active seesions.
 2. Default blocker strictly blocks advertisements, malwares, spams, spyware & trackers, coinminer and prevents your system from connecting to them.
 3. Easy use interface helps you to add your professional firewall rules just with few clicks.
 4. Add or batch provision customed firewall rules for advanced users.
