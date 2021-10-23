@@ -23,7 +23,7 @@ Please know you can't run Fiwalld and other VPN client at the same time, this is
 If you receive a system prompt that Fiwalld is draining battery, don't panic. Fiwalld does the connecting work, while other applications save this part of the battery, so the overall battery consumption remains the same. Acutually,many unnecessary connections are blocked, Fiwalld helps to save battery.
 
 
-!!! Important statement: Got some feedback from some Fiwalld users. Some Antivirus scanners take "2.txt" file in Fiwalld apk as Trojan, please know the "2.txt" file is a pure text file which contains part of ads, trojan domains list that are used by Fiwalld to block them, so it's a "false positive" report by scanners. And some scanners like AVG already fix the incorrect result after I provide the Fiwalld app and test by them. Fiwalld strickly follows the Privacy Policy https://sites.google.com/view/fiwalld-privacy-policy. If you still have concerns, please contact me via easylazybean@gmail.com.
+!!! Important statement: Got some feedback from Fiwalld users. Some Antivirus scanners take "2.txt" file in Fiwalld apk as Trojan, please know the "2.txt" file is a pure text file which contains part of ads, trojan domains list that are used by Fiwalld to block them, so it's a "false positive" report by scanners. And some scanners like AVG already fix the incorrect result after I provide the Fiwalld app and test by them. Fiwalld strickly follows the Privacy Policy https://sites.google.com/view/fiwalld-privacy-policy. If you still have concerns, please contact me via easylazybean@gmail.com.
 
 ## Translators List:
 简体中文 by Jane Xu
