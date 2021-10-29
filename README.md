@@ -30,6 +30,8 @@ If you receive a system prompt that Fiwalld is draining battery, don't panic. Fi
 
 Italiano by alberto castellano
 
+Indonesia by Light Yagami
+
 ## Usage Guide Video:
 
 [https://youtu.be/uV7WYy10XEQ]
