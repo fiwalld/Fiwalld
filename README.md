@@ -31,6 +31,10 @@ Italiano by alberto castellano
 
 Indonesia by Light Yagami
 
+## Thanks list for reporting bugs:
+
+Mario Amir
+
 ## Usage Guide Video:
 
 [https://youtu.be/uV7WYy10XEQ]
