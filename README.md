@@ -31,6 +31,8 @@ Italiano by alberto castellano
 
 Indonesia by Light Yagami
 
+Deutsch by mafi82290
+
 ## Thanks list for reporting bugs:
 
 Mario Amir
