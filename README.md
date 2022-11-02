@@ -33,6 +33,8 @@ Indonesia by Light Yagami
 
 Deutsch by mafi82290
 
+Español by Gabriel ACE
+
 ## Thanks list for reporting bugs:
 
 Mario Amir
