@@ -45,7 +45,7 @@ Albi
 
 ## Usage Guide Video:
 
-[https://youtu.be/uV7WYy10XEQ]
+[https://youtu.be/o1HrxU0-yPA]
 
 <p float="left">
         <img alt="Logo" src="https://github.com/EasyLazyBean/Fiwalld/blob/main/11.png" width="200"/>
