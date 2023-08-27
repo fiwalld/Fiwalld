@@ -1,3 +1,11 @@
+<h1 align="center">
+    <a href="https://github.com/EasyLazyBean/Fiwalld">
+        <img alt="Logo" src="https://github.com/EasyLazyBean/Fiwalld/blob/main/logo-firewalld-white-bg.png" width="100">
+    </a>
+    <br>
+</h1>
+
+
 # Fiwalld
 The Fiwalld is a free full-featured firewall on Android, keeps you away from malicious apps.
 
