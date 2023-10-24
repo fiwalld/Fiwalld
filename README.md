@@ -43,6 +43,8 @@ Deutsch by mafi82290
 
 Español by Gabriel ACE
 
+Português by Nelson Botelho
+
 ## Thanks list for reporting bugs:
 
 Mario Amir
