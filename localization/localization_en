@@ -1,0 +1,123 @@
+Fiwalld
+Applications
+Whitelist
+Detail
+Servers
+Blocking Rules
+app name or package name
+location name
+domain or app name
+app name
+app or domain name
+rule, app, domain or IP
+Monitoring
+Rules
+Statistics
+Settings
+Stop
+Add Blocking Rule
+Batching
+Locations
+Messages
+Sync
+Rule Name
+Socks Server Type
+Domain(s)/IP(s)
+Port(s)
+Enable Auth
+Click to select application(s) 
+Selected Apps:
+Add DNS Server
+Server Name
+Server Stamp
+Server IP:PORT
+ProtocolType
+DataType
+Edit Blocking Rule
+SelectApps
+RuleName
+BlockRule
+DomainIP
+DataType,All
+All
+Wifi
+Mobile
+Custom DNS server information incomplete!
+DNSType
+Total Ads blocking rules:  
+Whitelist rules: 
+Already in whitelist!
+Whitelist
+Whitelist rules are copied to clipboard!
+Clear whitelist
+Are you sure you want to clear whitelist?
+Continue
+Cancel
+OK
+Block App: Block all connections of app [xxx],
+Block Domain: Block all connections to domain [xxx]
+Block Domain of App: Block app [xxx]'s connections to domain [xxx]
+Block [IP:PORT]: Block all connections to [xxx]
+Block [IP:PORT] of App: Block app [xxx]'s connections to [xxx]
+Block settings
+TimeLeft: 
+TimeLeft:  Permanently
+Delete whitelist rule
+Are you sure you want to delete app [xxx] from whitelist?
+Are you sure you want to delete domain [xxx] from whitelist?
+New version 1.3.6 is available, click to download!
+Version 1.3.6 
+Created by L. Bean
+Email: easylazybean@gmail.com
+Changes will be applied next time you reconnect
+Auto start settings
+Sorry, Fiwalld couldn't automatically open auto start settings for you on this phone, please set it on system settings manually!
+Blacklist Mode
+Only selected apps are protected by Fiwalld: [Default: All apps are protected by Fiwalld]
+Only selected apps are protected by Fiwalld: [xxx]
+Whitelist Mode
+Only selected apps are not protected by Fiwalld: [Default: All apps are protected by Fiwalld]
+Only selected apps are not protected by Fiwalld: [xxx]
+Let me recommend you this application Fiwalld
+choose one
+Tips: 
+1. NO_DOMAIN_NAME_FOUND means DNS record is already cached by System/Application or Application uses IP address to make the connection directly.
+2. For Chrome, please disable its internal DNS.
+3. For some brands of phone, please grant Fiwalld background running permission to make sure it will not be stopped by the System.
+4. Monitoring screen shows latest 300 network activities.
+5. If you receive a system prompt that Fiwalld is draining battery, don't panic. Fiwalld does the connecting work, while other applications save this part of the battery, so the overall battery consumption remains the same.
+Information
+Rate Me
+Monitoring Logs
+All logs are copied to clipboard!
+Failed
+Protecting
+Unprotected
+Starting...
+Warning: Fiwalld is stopped
+Click to select server
+Set auto start for continuous protection
+Tips: Setting changes will be applied next time you reconnect Fiwalld
+Block Locations
+Block Ads
+Custom Block Rules
+Connections
+Data Usage
+Top 10 Blocks by Rules
+Top 10 Blocks by Locations
+Top 10 Connections by Locations
+Top 10 Blocks by Apps
+Top 10 Connections by Apps
+Top 10 Data Usage by Apps
+Count
+Add whitelist rules
+Are you sure you want to add all these domains/Apps to whitelist?
+Adding some whitelist rules are failed!
+All whitelist rules are added!
+Add domain [xxx] to whitelist
+Add App [xxx] to whitelist for 5 minutes
+Add App [xxx] to whitelist for 30 minutes
+Add App [xxx] to whitelist permanently
+Disable [xxx] rule
+Blocked by rule [xxx]
+Block rule name: [xxx]
